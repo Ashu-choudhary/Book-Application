@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="favourite">Favourite</string>
+    <string name="about">About</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="book_app">Book App</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="image">Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_dashboard_fragment">Hello DashBoard fragment</string>
+    <string name="hello_profile_fragment">Hello Profile fragment</string>
+    <string name="hello_favourite_fragment">Hello Favourite fragment</string>
+    <string name="hello_about_fragment">Hello About fragment</string>
+    <string name="list_item">List Item</string>
+    <string name="connection">Connection</string>
+    <string name="about_app">This is the About page of the Book App. Here you can find information about the application, its features, and how to use it.</string>
+    <string name="todo">TODO</string>
+    <string name="name_of_the_book">Name of the book</string>
+    <string name="name_of_the_author">Name of the Author</string>
+    <string name="rs_299">Rs. 299</string>
+    <string name="_4_5">4.5</string>
+</resources>
